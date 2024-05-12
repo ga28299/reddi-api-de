@@ -1,8 +1,9 @@
 /terraform/variable.tf
 
 
-*/.terraform
+/terraform/.terraform/
 
+/terraform/terraform.lock.hcl
 *.tfstate
 .tfstate.
 
