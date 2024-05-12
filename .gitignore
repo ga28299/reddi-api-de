@@ -1,3 +1,9 @@
 /terraform/variable.tf
 */.terraform/
+
+*.tfstate
+.tfstate.
+
+# Crash log files
+*.log
 /airflow/extraction/configuration.conf
